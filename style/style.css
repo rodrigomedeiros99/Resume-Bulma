@@ -1,0 +1,35 @@
+.message {
+  margin-top: 10px;
+  color: white;
+}
+
+.navbar-brand {
+  padding: 10px;
+  margin-left: 35px;
+}
+.navbar-end {
+  margin-right: 35px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.git-image {
+  display: flex;
+  justify-content: end;
+  width: 25px;
+  height: 25px;
+  margin-top: 18px;
+}
+.profile-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo-git {
+  display: flex;
+  justify-content: end;
+}
+.contact-sec {
+  height: 100vh;
+}
